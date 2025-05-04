@@ -3,7 +3,7 @@
 Overview : Automated Traffic Control System using YOLOv8 , Python , Computer Vision 
 This project implements a real - time intelligent traffic control system that uses deep learning and image processing to optimize traffic signal decisions dynamically . 
 
-![Diagrammatic representation  (1)](https://github.com/souradeep-mukherjee/TrafficFlow/blob/master/flow.png)
+![Flow](https://github.com/souradeep-mukherjee/TrafficFlow/blob/master/assets/flow.png)
 
 Key features : 
 1.  Object detection : Vehicles , Pedestrians and Emergency Vehicles 
@@ -127,8 +127,8 @@ Upload a traffic dataset.
 5. Emergency Override: Emergency vehicles automatically get highest priority regardless of other factors.
 
    
-![Screenshot 2025-04-23 124146](https://github.com/user-attachments/assets/04a86697-3cfc-467f-bc50-8ea491385985)
-![Screenshot 2025-04-23 124154](https://github.com/user-attachments/assets/30d06ace-2266-4c14-8ce3-0e7cab20a5d8)
-![Screenshot (78)](https://github.com/user-attachments/assets/577c795f-50bb-4225-8cbd-cb6b8ff0b2be)
-![Screenshot (79)](https://github.com/user-attachments/assets/8b1de02d-0c61-4c79-b4b0-6514550b57a7)!
-![Screenshot (77)](https://github.com/user-attachments/assets/b04f2f37-63de-4565-baf8-4e1046d0745e)
+![Screenshot1](https://github.com/TrafficFlow/blob/master/assets/screenshot1.png)
+![Screenshot2](https://github.com/TrafficFlow/blob/master/assets/screenshot2.png)
+![Screenshot3](https://github.com/TrafficFlow/blob/master/assets/screenshot3.png)
+![Screenshot4](https://github.com/TrafficFlow/blob/master/assets/screenshot4.png)
+![Screenshot5](https://github.com/TrafficFlow/blob/master/assets/screenshot5.png)
