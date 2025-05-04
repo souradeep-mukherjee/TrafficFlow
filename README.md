@@ -127,8 +127,8 @@ Upload a traffic dataset.
 5. Emergency Override: Emergency vehicles automatically get highest priority regardless of other factors.
 
    
-![Screenshot1](https://github.com/TrafficFlow/blob/master/assets/screenshot1.png)
-![Screenshot2](https://github.com/TrafficFlow/blob/master/assets/screenshot2.png)
-![Screenshot3](https://github.com/TrafficFlow/blob/master/assets/screenshot3.png)
-![Screenshot4](https://github.com/TrafficFlow/blob/master/assets/screenshot4.png)
-![Screenshot5](https://github.com/TrafficFlow/blob/master/assets/screenshot5.png)
+![Screenshot1](https://github.com/souradeep-mukherjee/TrafficFlow/blob/master/assets/screenshot1.png)
+![Screenshot2](https://github.com/souradeep-mukherjee/TrafficFlow/blob/master/assets/screenshot2.png)
+![Screenshot3](https://github.com/souradeep-mukherjee/TrafficFlow/blob/master/assets/screenshot3.png)
+![Screenshot4](https://github.com/souradeep-mukherjee/TrafficFlow/blob/master/assets/screenshot4.png)
+![Screenshot5](https://github.com/souradeep-mukherjee/TrafficFlow/blob/master/assets/screenshot5.png)
