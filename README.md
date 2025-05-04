@@ -3,7 +3,7 @@
 Overview : Automated Traffic Control System using YOLOv8 , Python , Computer Vision 
 This project implements a real - time intelligent traffic control system that uses deep learning and image processing to optimize traffic signal decisions dynamically . 
 
-![Diagrammatic representation  (1)](https://github.com/user-attachments/assets/a15238e4-d882-42b8-b356-d9e3fe0adc8d)
+![Diagrammatic representation  (1)](https://github.com/souradeep-mukherjee/TrafficFlow/blob/master/flow.png)
 
 Key features : 
 1.  Object detection : Vehicles , Pedestrians and Emergency Vehicles 
